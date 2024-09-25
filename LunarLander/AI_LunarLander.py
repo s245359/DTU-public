@@ -1,5 +1,5 @@
 # Lunar Lander: AI-controlled play
-
+#Redigering test
 # Instructions:
 #   Land the rocket on the platform within a distance of plus/minus 20, 
 #   with a horizontal and vertical speed less than 20
